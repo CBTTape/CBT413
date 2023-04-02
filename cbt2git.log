@@ -1,0 +1,21 @@
+2023-04-03 00:07:33.451809 - Initialized conversion of CBT413
+2023-04-03 00:07:33.543149 - Received CBT.V504.FILE413.PDS from FILE413.XMI 
+2023-04-03 00:07:33.545724 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE413.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:07:33.547010 - Found $FADHHIS.txt (text/plain) in CBT.V504.FILE413.PDS, moved to PDS/$FADHHIS
+2023-04-03 00:07:33.548074 - Found $README.txt (text/plain) in CBT.V504.FILE413.PDS, moved to PDS/$README
+2023-04-03 00:07:33.549021 - Found @FILE413.txt (text/plain) in CBT.V504.FILE413.PDS, moved to PDS/@FILE413
+2023-04-03 00:07:33.550030 - Found ASSREXX.txt (text/plain) in CBT.V504.FILE413.PDS, moved to PDS/ASSREXX
+2023-04-03 00:07:33.550040 - Found DENQ.bin containing application/octet-stream, moved to PDS/DENQ
+2023-04-03 00:07:33.552068 - Found FLIST.rexx (text/plain) in CBT.V504.FILE413.PDS, moved to PDS/FLIST
+2023-04-03 00:07:33.553106 - Found FLISTHLP.txt (text/plain) in CBT.V504.FILE413.PDS, moved to PDS/FLISTHLP
+2023-04-03 00:07:33.553115 - Found GLOBALV.bin containing application/octet-stream, moved to PDS/GLOBALV
+2023-04-03 00:07:33.554946 - Found IRXFUSER.txt (text/plain) in CBT.V504.FILE413.PDS, moved to PDS/IRXFUSER
+2023-04-03 00:07:33.555938 - Found LKEDJCL.txt (text/plain) in CBT.V504.FILE413.PDS, moved to PDS/LKEDJCL
+2023-04-03 00:07:33.555946 - Found PDSFLIST.bin containing application/octet-stream, moved to PDS/PDSFLIST
+2023-04-03 00:07:33.557722 - Found QUERY.rexx (text/plain) in CBT.V504.FILE413.PDS, moved to PDS/QUERY
+2023-04-03 00:07:33.557730 - Found SVC99DSN.bin containing application/octet-stream, moved to PDS/SVC99DSN
+2023-04-03 00:07:33.559591 - Found TAPESCAN.rexx (text/plain) in CBT.V504.FILE413.PDS, moved to PDS/TAPESCAN
+2023-04-03 00:07:33.559622 - Found TSGDEVCK.bin containing application/octet-stream, moved to PDS/TSGDEVCK
+2023-04-03 00:07:33.560520 - Found TSGQUERY.bin containing application/octet-stream, moved to PDS/TSGQUERY
+2023-04-03 00:07:33.561445 - Found TSGTSCAN.bin containing application/octet-stream, moved to PDS/TSGTSCAN
+2023-04-03 00:07:33.562349 - Found WHOSGOT.bin containing application/octet-stream, moved to PDS/WHOSGOT
