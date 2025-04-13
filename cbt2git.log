@@ -1,0 +1,20 @@
+2025-04-13 19:28:50.137126 - Received CBT.V508.FILE413.PDS from FILE413.XMI 
+2025-04-13 19:28:50.138510 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE413.PDS, moved to PDS/$$$#DATE
+2025-04-13 19:28:50.138706 - Found $FADHHIS.txt (text/plain) in CBT.V508.FILE413.PDS, moved to PDS/$FADHHIS
+2025-04-13 19:28:50.138876 - Found $README.txt (text/plain) in CBT.V508.FILE413.PDS, moved to PDS/$README
+2025-04-13 19:28:50.138956 - Found @FILE413.txt (text/plain) in CBT.V508.FILE413.PDS, moved to PDS/@FILE413
+2025-04-13 19:28:50.139026 - Found ASSREXX.txt (text/plain) in CBT.V508.FILE413.PDS, moved to PDS/ASSREXX
+2025-04-13 19:28:50.139100 - Found DENQ.bin (application/octet-stream) in CBT.V508.FILE413.PDS, moved to PDS/DENQ
+2025-04-13 19:28:50.139170 - Found FLIST.rexx (text/plain) in CBT.V508.FILE413.PDS, moved to PDS/FLIST
+2025-04-13 19:28:50.139294 - Found FLISTHLP.txt (text/plain) in CBT.V508.FILE413.PDS, moved to PDS/FLISTHLP
+2025-04-13 19:28:50.139376 - Found GLOBALV.bin (application/octet-stream) in CBT.V508.FILE413.PDS, moved to PDS/GLOBALV
+2025-04-13 19:28:50.139448 - Found IRXFUSER.txt (text/plain) in CBT.V508.FILE413.PDS, moved to PDS/IRXFUSER
+2025-04-13 19:28:50.139516 - Found LKEDJCL.txt (text/plain) in CBT.V508.FILE413.PDS, moved to PDS/LKEDJCL
+2025-04-13 19:28:50.139619 - Found PDSFLIST.bin (application/octet-stream) in CBT.V508.FILE413.PDS, moved to PDS/PDSFLIST
+2025-04-13 19:28:50.139698 - Found QUERY.rexx (text/plain) in CBT.V508.FILE413.PDS, moved to PDS/QUERY
+2025-04-13 19:28:50.139764 - Found SVC99DSN.bin (application/octet-stream) in CBT.V508.FILE413.PDS, moved to PDS/SVC99DSN
+2025-04-13 19:28:50.139836 - Found TAPESCAN.rexx (text/plain) in CBT.V508.FILE413.PDS, moved to PDS/TAPESCAN
+2025-04-13 19:28:50.139909 - Found TSGDEVCK.bin (application/octet-stream) in CBT.V508.FILE413.PDS, moved to PDS/TSGDEVCK
+2025-04-13 19:28:50.139988 - Found TSGQUERY.bin (application/octet-stream) in CBT.V508.FILE413.PDS, moved to PDS/TSGQUERY
+2025-04-13 19:28:50.140066 - Found TSGTSCAN.bin (application/octet-stream) in CBT.V508.FILE413.PDS, moved to PDS/TSGTSCAN
+2025-04-13 19:28:50.140136 - Found WHOSGOT.bin (application/octet-stream) in CBT.V508.FILE413.PDS, moved to PDS/WHOSGOT
